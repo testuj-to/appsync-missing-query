@@ -1,7 +1,7 @@
 
 # Reproduction of AS-Script `missing Query` bugs
 
-_Original issue can be found here: [https://github.com/aws/aws-appsync-community/issues](https://github.com/aws/aws-appsync-community/issues)_
+_Original issue can be found here: [https://github.com/aws/aws-appsync-community/issues/345](https://github.com/aws/aws-appsync-community/issues/345)_
 
 
 ## Missing Query
